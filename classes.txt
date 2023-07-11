@@ -1,0 +1,15 @@
+person
+zebra crossing
+trees
+boat
+car
+building
+court
+light pole
+train
+cycle
+ship
+house
+road
+railway track
+parking
